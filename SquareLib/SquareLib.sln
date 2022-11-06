@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLib", "SquareLib\SquareLib.csproj", "{20572B98-F6C3-4E31-82E9-80063DDEF199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7AEDA0E6-103A-4285-90CE-7FFE0E015DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20572B98-F6C3-4E31-82E9-80063DDEF199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20572B98-F6C3-4E31-82E9-80063DDEF199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20572B98-F6C3-4E31-82E9-80063DDEF199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20572B98-F6C3-4E31-82E9-80063DDEF199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEDA0E6-103A-4285-90CE-7FFE0E015DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEDA0E6-103A-4285-90CE-7FFE0E015DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEDA0E6-103A-4285-90CE-7FFE0E015DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEDA0E6-103A-4285-90CE-7FFE0E015DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF34580-4E90-40E8-850A-05CFB50D4C9D}
+	EndGlobalSection
+EndGlobal
